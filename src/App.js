@@ -10,7 +10,7 @@ function App() {
       <Button variant='contained'> Fetch Weather </Button>
       <Card sx={{ height: 285 }}>
         <Typography sx={{ height: 145, backgroundColor: "red" }}>
-          This is Lagos
+          This is Lagos d
         </Typography>
         <Typography sx={{ color: "green" }}>
           This is Sail weather app
